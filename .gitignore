@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RetryPatternPolly/.vs
+/RetryPatternPolly/RetryPatternPolly/bin/Debug/net7.0
+/RetryPatternPolly/RetryPatternPolly/obj
+/RetryPatternPolly-WebApp/.vs/WebApp
+/RetryPatternPolly-WebApp/WebApp/.vs/WebApp
+/RetryPatternPolly-WebApp/WebApp/bin/Debug/net7.0
+/RetryPatternPolly-WebApp/WebApp/obj
